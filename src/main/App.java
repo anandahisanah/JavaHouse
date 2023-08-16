@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 public class App {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("UTS");
+        JFrame frame = new JFrame("UAS House");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         DrawingJPanel drawingJPanel = new DrawingJPanel();
